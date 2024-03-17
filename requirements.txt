@@ -1,0 +1,7 @@
+Jinja2==2.7.2
+MarkupSafe==0.23
+Werkzeug==0.9.4
+itsdangerous==0.24
+Flask==2.0.1
+librosa==0.8.1
+numpy==1.21.0
